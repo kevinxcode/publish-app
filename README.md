@@ -1,5 +1,5 @@
 
-PUBLISH APPLICATION 
+PUBLISH APPLICATION :
 
 ---
 # => [PTCT-EVENT](event.md)
