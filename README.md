@@ -1,4 +1,4 @@
-# publish - app
+ APPLICATION DEPLOY IN FOR IMPLEMENTATION
 
 # PTCT - EVENT for IOS with expo
 ```
