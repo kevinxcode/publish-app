@@ -4,8 +4,6 @@ EVENT APPLICATION
 Click to download [EVENT - APK](https://github.com/kevinxcode/publish-app/raw/main/apk/ct-event_v7.apk)
 
 -----
-<br>
------------
 
 # Run With Expo GO
 How to : 
