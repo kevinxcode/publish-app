@@ -1,2 +1,6 @@
-# publish-app
-this publish app bundle
+# publish - app
+
+# PTCT - EVENT for IOS with expo
+```
+exp://exp.host/@kevinalnizar/event-scan
+```
