@@ -4,7 +4,7 @@
 ```
 https://github.com/kevinxcode/publish-app/raw/main/ct-event_v7.apk
 ```
-[Android - PTCT EVENT | APK]([https://www.genome.gov/](https://github.com/kevinxcode/publish-app/raw/main/ct-event_v7.apk))
+[Android - PTCT EVENT | APK](https://www.genome.gov/](https://github.com/kevinxcode/publish-app/raw/main/ct-event_v7.apk)
 
 # PTCT - EVENT for IOS with expo
 ```
