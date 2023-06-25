@@ -8,7 +8,8 @@
 How to : 
 1. Download EXPO GO in your App Store
 2. after the download then
-3. Click this LINK [IOS-EVENT SCAN](exp://exp.host/@kevinalnizar/event-scan)
+3. Copy This url
 ```
 exp://exp.host/@kevinalnizar/event-scan
 ```
+4. Open your browser and paste and go
