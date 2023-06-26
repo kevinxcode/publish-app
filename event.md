@@ -15,13 +15,18 @@ App Store link [EXPO GO - App Store](https://apps.apple.com/id/app/expo-go/id982
 
 # Android 
 ![alt text](images/ptct-event-android.png)
+Or, open this link on your device:
+```
+exp://u.expo.dev/update/5f6caeba-668e-40cf-94d5-98d55fbad08d
+```
 
 ---
 
 # IOS
 ![alt text](images/ptct-event-ios.png)
+Or, open this link on your device:
 ```
-exp://u.expo.dev/update/5ab17e14-10b9-4388-a24e-1cfec61ce51a
+exp://u.expo.dev/update/94862896-0a47-4aa2-9de5-3dc6d09d18a9
 ```
 
 &copy; Kevin Alnizar
