@@ -20,3 +20,8 @@ App Store link [EXPO GO - App Store](https://apps.apple.com/id/app/expo-go/id982
 
 # IOS
 ![alt text](images/ptct-event-ios.png)
+```
+exp://u.expo.dev/update/5ab17e14-10b9-4388-a24e-1cfec61ce51a
+```
+
+&copy; Kevin Alnizar
