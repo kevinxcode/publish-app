@@ -23,5 +23,5 @@ select * from workplaze.employee_all('', 'ALL', null, 0)
 
 # Employee API url : 
 ```
-https://hrd.citratubindo.com/sys-hr/app/api/employee_active?date=&&search=DINI&&company=ALL&&type=ALL&&status=ALL
+https://-/sys-hr/app/api/employee_active?date=&&search=DINI&&company=ALL&&type=ALL&&status=ALL
 ```
