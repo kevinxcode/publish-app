@@ -19,4 +19,9 @@ select * from workplaze.employee_all('', 'ALL', null, 0)
 1. FIlter name , nik
 2. Company => ALL, PTCT,SCN,Vlr.intl <br>
 3. Limit => Null for All data, get 10 <br>
-4. Offset => 0 for start from 0 
+4. Offset => 0 for start from 0
+
+# Employee API url : 
+```
+https://hrd.citratubindo.com/sys-hr/app/api/employee_active?date=&&search=DINI&&company=ALL&&type=ALL&&status=ALL
+```
