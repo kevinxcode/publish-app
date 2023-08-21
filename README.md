@@ -7,3 +7,5 @@ PUBLISH APPLICATION :
 # => [SYS-HR](sys-hr.md)
 ---
 # => [PTCT-ANIV](ptct-aniv.md)
+---
+# => [REMOTE APP](remote.md)
