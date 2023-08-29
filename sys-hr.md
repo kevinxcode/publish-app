@@ -25,3 +25,13 @@ workplaze.employee_all('', 'ALL', null, 0)
 ```
 https://-/sys-hr/app/api/employee_active?date=&&search=DINI&&company=ALL&&type=ALL&&status=ALL
 ```
+
+# qbik 
+```
+ workplaze.employee_qbik('2023-08-01', '2023-08-30', 'name ', 'ALL', NULL, 0) 
+```
+```
+workplaze.employee_qbik_newcomer('2023-08-01', '2023-08-30', 'name', 'ALL', NULL, 0)
+```
+ALL, PTCT, SCN, SG
+
