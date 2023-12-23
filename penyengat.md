@@ -1,4 +1,4 @@
-PENYENGAT for ADMIN APK
+PENYENGAT APK for ADMIN 
 
 # Android Installer APK 
 Click to download [PENYENGAT ADM - APK](https://github.com/kevinxcode/publish-app/raw/main/apk/penyengat-admin_v2.apk)
